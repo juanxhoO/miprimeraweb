@@ -4,5 +4,9 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
+#- file: markdown
+- file: courses_36583
+- file: courses_36622
+- file: courses_36592
+- file: courses_36535
+- file: courses_36410
